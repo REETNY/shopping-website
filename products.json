@@ -1,0 +1,57 @@
+{
+    "items": [
+        {
+            "img": "/products-img/comfy_table.jpg",
+            "id": 1,
+            "price": 105.65,
+            "name": "Cushion Table"
+        },
+        {
+            "img": "/products-img/hanging-hammock-chair.jpg",
+            "id": 2,
+            "price": 205.05,
+            "name": "Hanging Hammock Chair"
+        },
+        {
+            "img": "/products-img/Hencawima-Kitchen-Island-Microwave-Cart-Stand.jpg",
+            "id": 3,
+            "price": 200.12,
+            "name": "Hencawima Kitchen Island Microwave Cart Stand"
+        },
+        {
+            "img": "/products-img/oval-dining-table.jpg",
+            "id": 4,
+            "price": 302.65,
+            "name": "Oval Dining Table"
+        },
+        {
+            "img": "/products-img/Panana_5-Drawer-Chest.jpg",
+            "id": 5,
+            "price": 145.06,
+            "name": "Panana 5 Drawer Chest"
+        },
+        {
+            "img": "/products-img/Panana-5-Drawer-Chest-with-led.jpg",
+            "id": 6,
+            "price": 189.75,
+            "name": "Panana 3 Drawer Chest With Led"
+        },
+        {
+            "img": "/products-img/Sofa-Bed-Foldable.jpg",
+            "id": 7,
+            "price": 319.66,
+            "name": "Sofa Bed Foldable"
+        },
+        {
+            "img": "/products-img/Soft-sofa-chair.jpg",
+            "id": 8,
+            "price": 554.99,
+            "name": "Soft Sofa Chair"
+        }
+    ]
+}
+
+
+
+
+

@@ -307,6 +307,7 @@ nav{
     transform: translateX(100%);
     transition: all 0.9s linear;
     overflow-y: auto;
+    z-index: 999;
 }
 
 .showCart{
